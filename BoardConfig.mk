@@ -57,8 +57,8 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # BlissPop Config Flags
 BLISSIFY := true
-BLISS_O3 := true
-BLISS_STRICT := true
+#BLISS_O3 := true
+BLISS_STRICT := false
 BLISS_GRAPHITE := true
 BLISS_KRAIT := true
 #Bliss_Build_Block :=1
